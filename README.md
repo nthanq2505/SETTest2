@@ -34,3 +34,6 @@ Con chó
 Sư tử
 Báo
 Cáo
+
+Khủng long 
+pikachu

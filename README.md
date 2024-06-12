@@ -2,3 +2,6 @@
 chicken
 cow
 dog
+cat
+fish
+duck

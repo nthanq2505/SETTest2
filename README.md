@@ -27,3 +27,6 @@ rơi
 thanh
 voi
 gấu
+Con gà
+Con heo
+Con chó

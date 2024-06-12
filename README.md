@@ -44,3 +44,6 @@ gà
 chó
 dê
 cừu
+phượng hoàng
+gà lửa
+bò lửa

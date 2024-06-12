@@ -41,3 +41,6 @@ pikachu
 mèo
 bò 
 gà
+chó
+dê
+cừu

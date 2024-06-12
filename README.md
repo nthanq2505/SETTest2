@@ -37,3 +37,7 @@ Cáo
 
 Khủng long 
 pikachu
+
+mèo
+bò 
+gà

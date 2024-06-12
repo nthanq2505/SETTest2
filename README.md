@@ -18,3 +18,5 @@ chicken
 dog
 bird
 mouse
+chó
+mèo 

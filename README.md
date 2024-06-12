@@ -5,3 +5,6 @@ pig
 tiger
 elephent
 chicken
+dog
+bird
+mouse

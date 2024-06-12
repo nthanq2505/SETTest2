@@ -18,3 +18,12 @@ chicken
 dog
 bird
 mouse
+chó
+mèo 
+hổ
+nhện
+rắn
+rơi
+thanh
+voi
+gấu

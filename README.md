@@ -9,3 +9,12 @@ bird
 lion
 fish
 tiger
+duck
+cat
+pig
+tiger
+elephent
+chicken
+dog
+bird
+mouse

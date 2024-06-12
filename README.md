@@ -27,3 +27,13 @@ rơi
 thanh
 voi
 gấu
+Con gà
+Con heo
+Con chó
+
+Sư tử
+Báo
+Cáo
+
+Khủng long 
+pikachu

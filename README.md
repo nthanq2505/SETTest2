@@ -5,3 +5,6 @@ dog
 cat
 fish
 duck
+bird
+lion
+tiger

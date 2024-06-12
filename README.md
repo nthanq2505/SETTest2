@@ -24,3 +24,6 @@ hổ
 nhện
 rắn
 rơi
+thanh
+voi
+gấu

@@ -20,3 +20,7 @@ bird
 mouse
 chó
 mèo 
+hổ
+nhện
+rắn
+rơi

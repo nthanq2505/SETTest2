@@ -2,3 +2,6 @@
 duck
 cat
 pig
+tiger
+elephent
+chicken
